@@ -1,0 +1,10 @@
+table{
+    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+}
+.bg{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+.btn{
+    margin-bottom: 20px;
+    color: #e21538;
+}
